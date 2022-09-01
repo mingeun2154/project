@@ -1,7 +1,4 @@
-# Heading
-
-simple description  
-> ### references 🔗 
+# Front-end
 
 ## Contents		
 * ### [subheading](#)      
