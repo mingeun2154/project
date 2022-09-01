@@ -6,10 +6,10 @@ React와 spring boot를 사용한 CRUD 게시판 웹 애플리케이션
 > React.js, 스프링부트, AWS로 배우는 웹 개발 101
 
 ## Contents		
-* ### [기능](#)      
-* ### [프론트엔드](#)
-* ### [백엔드](#)
-* ### [앱의 구조](#)
+* ### [기능](https://github.com/mingeun2154/project/tree/main/CRUDBoard#services)      
+* ### [프론트엔드](https://github.com/mingeun2154/project/tree/main/CRUDBoard#front-end)
+* ### [백엔드](https://github.com/mingeun2154/project/tree/main/CRUDBoard#back-end)
+* ### [앱의 구조](https://github.com/mingeun2154/project/tree/main/CRUDBoard#architecture)
 
 #    
 
